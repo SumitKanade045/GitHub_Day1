@@ -207,5 +207,9 @@ public class StudentController {
 		return "adminDashboard";
 	}
 
-	System.out.println("Hello GitHub");
+	public void GitHub() {
+		
+		System.out.println("Hello GitHub");
+	}
+
 }
